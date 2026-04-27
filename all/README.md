@@ -11,11 +11,6 @@ Contains scripts for analyzing benchmark results and generating visualizations.
 | `robustness_diagram.py` | Generate toxicity rate visualization |
 | `listofmodes.py` | Run multiple models on the dataset |
 
-## Usage
-
-```bash
-cd /home/moussl/PycharmProjects/methodologie/project/all
-
 # Generate visualization
 python robustness_diagram.py
 ```

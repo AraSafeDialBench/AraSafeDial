@@ -28,11 +28,11 @@
 
 <div align="center">
 
-| Name | Role |
-|------|------|
-| **Badr Eddine TOUBANI** | Research & Data |
-| **Ilyas MOUSSNAOUI** | Modeling & Evaluation |
-| **Mustapha EL MIFDALI** | Development & Analysis |
+| Name |
+|------|
+| **Badr Eddine TOUBANI** |
+| **Ilyas MOUSSNAOUI** | 
+| **Mustapha EL MIFDALI** |
 
 </div>
 
